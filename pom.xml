@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mavensample</groupId>
   <artifactId>my-maven</artifactId>
-  <packaging>jar</packaging>
-  <version>11.0.0</version>
+  <packaging>war</packaging>
+  <version>2.0.0</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
